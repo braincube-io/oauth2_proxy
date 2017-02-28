@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitly/oauth2_proxy/cookie"
+	"github.com/gui13/oauth2_proxy/cookie"
 )
 
 type SessionState struct {
