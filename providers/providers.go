@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/gui13/oauth2_proxy/cookie"
+	"github.com/braincube-io/oauth2_proxy/cookie"
 )
 
 type Provider interface {

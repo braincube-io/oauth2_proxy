@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/18F/hmacauth"
-	"github.com/gui13/oauth2_proxy/providers"
+	"github.com/braincube-io/oauth2_proxy/providers"
 )
 
 // Configuration Options that can be set by Command Line Flag, or Config File
